@@ -1,4 +1,4 @@
-# Change Listener Variable Example(Android Jetpack architecture component)
+# Change Listener Variable Example(Android Jetpack Architecture Component)
 
 Observe variable changes from one fragment to another fragment using Android Jetpack architecture component or you can also say Architecture Component both are same.
 

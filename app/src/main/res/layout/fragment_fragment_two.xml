@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FragmentTwo">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginLeft="5dp"
+        android:layout_marginStart="5dp"
+        android:padding="5dp">
+
+        <TextView
+            android:id="@+id/Txt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textAppearance="?textAppearanceListItemSmall"
+            android:text="@string/get_date" />
+
+        <TextView
+            android:id="@+id/txt_Diaplay_Date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="15dp"
+            android:layout_marginStart="5dp"
+            android:textAppearance="?textAppearanceListItemSmall"
+            android:text="@string/no_date_selected" />
+
+    </LinearLayout>
+
+</FrameLayout>

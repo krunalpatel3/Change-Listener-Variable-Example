@@ -22,8 +22,6 @@ You can also Observe variable changes in two or more fragments.
 
 ## Screenshots:-
 
-<img src="Screenshots/Screenshot_20180909-130533.png" width="250" height="450" /> <img src="Screenshots/Screenshot_20180909-130539.png" width="250" height="450" />
+<img src="Screenshots/Screenshot_20180909-130533.png" width="250" height="450" /> <img src="Screenshots/Screenshot_20180909-130539.png" width="250" height="450" /> <img src="Screenshots/Screenshot_20180909-130554.png" width="250" height="450" /> 
 
-<img src="Screenshots/Screenshot_20180909-130554.png" width="250" height="450" /> <img src="Screenshots/Screenshot_20180909-130600.png" width="250" height="450" />
-
-<img src="Screenshots/Screenshot_20180909-130605.png" width="250" height="450" />
+<img src="Screenshots/Screenshot_20180909-130600.png" width="250" height="450" /> <img src="Screenshots/Screenshot_20180909-130605.png" width="250" height="450" />
